@@ -1,0 +1,16 @@
+{
+    "name": "benjaminu/Kohana-CKEditor",
+    "description": "integration module of CKEditor for Kohana 3.3",
+    "homepage": "https://github.com/benjaminu/Kohana-CKEditor",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Andrey",
+            "email": "sfagnum007@gmail.com"
+        },
+        {
+            "name": "Benjamin Ugbene",
+            "email": "benjamin.ugbene@googlemail.com"
+        }
+    ]
+}
